@@ -2,7 +2,7 @@ This doesn't actually hack anything or anyone. its simple a simulation of what p
 
 ---
 
-### COPYRIGHT (C) `2019`
+***__COPYRIGHT (C) 2019__****
 
 `BY CLEARLYELEVATED` (HTTPS://CODEPEN.IO/CLEARLYELEVATED/PEN/ABORXZA)
 
