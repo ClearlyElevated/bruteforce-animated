@@ -1,0 +1,1 @@
+`Contributors are more then welcome!` **__Whats not welcome, Is when people fork the repo. Act as if they are intitled to even having an opinion as to try to reason with us regarding use of this repo__. If you violate the terms. and self host it just to attempt to start a community you will be blocked from the repo & reported for copyright infringment**
